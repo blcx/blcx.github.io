@@ -5,4 +5,4 @@ category: Services
 title: Earn Profits By Forging/Staking
 description: |
 ---
-It is a POS coin. Running a node and earning extra coins mean, free transaction fees. No extra complicated process to setup. It is easy and one click run. Just click forge and start staking your pos coins and earn income.  [Download Wallet](https://github.com/blcxx/blcx/blob/master/nxt-clone-client-14.zip)
+It is a POS coin. Running a node and earning extra coins mean, free transaction fees. No extra complicated process to setup. It is easy and one click run. Just click forge and start staking your pos coins and earn income.  [Download Wallet](https://github.com/blcx/blcx/blob/master/nxt-clone-client-14.zip)

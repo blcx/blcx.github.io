@@ -2,9 +2,9 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: https://blcxx.github.io
-title: Blockchain Coin Project
-email: blcxx.github.io
+url: https://blcx.github.io
+title: BLOCKCHAIN COIN PROJECT
+email: blcx.github.io
 author: BLCXX
 description: > # "Write an awesome description for your new site here. 
   Blockchain Coin Project. Blockchain For Everyone.
@@ -29,6 +29,6 @@ social:
   - title: twitter
     url: https://twitter.com/BLCX_Coin
   - title: github
-    url: https://github.com/blcxx/blcx
+    url: https://github.com/blcx/blcx
   - title: Discord
     url: https://discord.gg/fe3Bkmq
