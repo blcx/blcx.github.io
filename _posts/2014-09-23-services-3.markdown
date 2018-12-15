@@ -2,7 +2,7 @@
 layout: default
 img: phones.png
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Earn Profits By Forging/Staking
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+It is a POS coin. Running a node and earning extra coins mean, free transaction fees. No extra complicated process to setup. It is easy and one click run. Just click forge and start staking your pos coins and earn income.  [Download](https://github.com/blcxx/blcx/blob/master/nxt-clone-client-14.zip)
